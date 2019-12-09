@@ -3,10 +3,10 @@
     "name": "ffxiv-craft-opt-web",
     "description": "FFXIV Crafting Optimizer Website",
     "version": "0.0.1",
-    "homepage": "http://ffxiv.lokyst.net",
+    "homepage": "https://ffxivita-craft.herokuapp.com",
     "repository": {
         "type": "git",
-        "url": "git@github.com:DarkArtek/ffxiv-craft-opt-web.git"
+        "url": "git@github.com:DarkArtek/ffxivita-craft-optimizer.git"
     },
     "engines": {
         "node": "*"
